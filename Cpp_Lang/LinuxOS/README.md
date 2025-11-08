@@ -1,3 +1,6 @@
+# .clang-format
+- https://github.com/SFML/SFML/blob/master/.clang-format 
+
 # justfile
 
 ```justfile
