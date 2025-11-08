@@ -10,3 +10,6 @@
 
 # sfml learn
 - https://www.sfml-dev.org/learn/
+
+# Migration guide
+- https://github.com/SFML/SFML/blob/master/migration.md
