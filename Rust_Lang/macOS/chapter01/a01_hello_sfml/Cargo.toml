@@ -1,0 +1,10 @@
+[package]
+name = "a01_hello_sfml"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+cc = "1.2.45"
+cmake = "0.1.54"
+pkg-config = "0.3.32"
+sfml = "0.25.1"
