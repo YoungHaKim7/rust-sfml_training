@@ -13,3 +13,6 @@
 
 # Migration guide
 - https://github.com/SFML/SFML/blob/master/migration.md
+
+# Install(LinuxOS)
+- https://github.com/jeremyletang/rust-sfml/wiki/Linux
